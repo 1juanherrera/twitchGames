@@ -1,6 +1,6 @@
 # Twitch Games API 
 
-Este proyecto utiliza la API de Twitch para proporcionar una interfaz de usuario que permite a los usuarios interactuar con los juegos de Twitch.
+Este proyecto utiliza la API de Twitch para proporcionar una interfaz de usuario que los permite interactuar con los juegos de Twitch.
 
 ## Tecnologías Utilizadas 🛠️
 
