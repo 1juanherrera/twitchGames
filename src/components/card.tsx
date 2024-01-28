@@ -1,4 +1,4 @@
-import { IGame } from '@/hooks/useApi'
+import { IGame } from '@/interfaces/interfaces'
 import Image from 'next/image'
 
 const Card = ({ name, id, box_art_url: boxArtUrl }: IGame) => {
